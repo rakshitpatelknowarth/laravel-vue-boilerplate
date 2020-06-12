@@ -22,3 +22,28 @@ yarn-error.log
 public/js
 public/css
 resources/assets/vue/vue-i18n-locales.generated.js
+
+.DS_Store
+node_modules
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+stylelintOutput.log*
+inspect.js
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.orig

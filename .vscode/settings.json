@@ -29,5 +29,6 @@
     "public/js": true,
     "public/fonts": true,
     "vendor/": true
-  }
+  },
+  "git.ignoreLimitWarning": true
 }
